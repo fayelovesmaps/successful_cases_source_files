@@ -1,0 +1,1 @@
+"Image 1 is the base edit image. Use Image 2 as a mask: the white region in Image 2 marks the only area to remove in Image 1. Remove only that region and restore it with a natural continuation of the wet sand, shallow water, and reflections. Keep all other content in Image 1 unchanged, including the positions and spacing of the remaining penguins."
